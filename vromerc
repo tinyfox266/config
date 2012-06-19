@@ -12,4 +12,4 @@ unmap <C-d>
 unmap <C-j>
 unmap R
 
-set disablesites=mail.google.com, reader.google.com
+set disablesites=mail.google.com,reader.google.com,www.google.com/reader
