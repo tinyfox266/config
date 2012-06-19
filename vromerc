@@ -11,3 +11,5 @@ map q D
 unmap <C-d>
 unmap <C-j>
 unmap R
+
+set disablesites=mail.google.com, reader.google.com
