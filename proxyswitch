@@ -2,8 +2,8 @@
 
 [Wildcard]
 *://*.google.com/*
-*.twitter.com/*
-*.facebook.com/*
-*.letscorp.net/*
+*://*.twitter.com/*
+*://*.facebook.com/*
+*://*.letscorp.net/*
 
 #END
