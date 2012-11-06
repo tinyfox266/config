@@ -1,0 +1,9 @@
+# BEGIN
+
+[Wildcard]
+*://*.google.com/*
+*.twitter.com/*
+*.facebook.com/*
+*.letscorp.net/*
+
+#END
